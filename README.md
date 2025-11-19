@@ -56,4 +56,5 @@ Smart charging schedules, load shifting, reduction in coincident peak demand.
 - 📧 Email: psridhar1996@gmail.com  
 - 🔗 LinkedIn:https://www.linkedin.com/in/sridhar-ponnusamy-10bb2490/
 - 🐙 GitHub: https://github.com/sridhar-sdr
+- Medium - https://medium.com/@sridhar.ponnusamy
 
