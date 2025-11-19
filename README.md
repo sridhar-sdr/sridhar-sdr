@@ -1,6 +1,5 @@
 
 
-<!--
 # 👋 Hi, I'm Sridhar — Energy Analyst | Data & AI for Smart Buildings
 
 - 🇨🇦 Based in Toronto, Canada  
@@ -58,4 +57,3 @@ Smart charging schedules, load shifting, reduction in coincident peak demand.
 - 🔗 LinkedIn:https://www.linkedin.com/in/sridhar-ponnusamy-10bb2490/
 - 🐙 GitHub: https://github.com/sridhar-sdr
 
--->
